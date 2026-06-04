@@ -1,0 +1,21 @@
+{
+  "name": "ableton",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@boxicons/vue": "^1.0.1",
+    "@lucide/vue": "^1.17.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "nuxt": "^4.4.6",
+    "tailwindcss": "^4.3.0",
+    "vue": "^3.5.34",
+    "vue-router": "^5.0.7"
+  }
+}
