@@ -1,75 +1,10 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<img width="1854" height="949" alt="image" src="https://github.com/user-attachments/assets/5a8c30af-a69b-4b51-b869-4062fdb2f882" />
+<img width="1852" height="946" alt="image" src="https://github.com/user-attachments/assets/b6bfefc5-928d-4489-ad4c-7927c82db36c" />
+<img width="1847" height="944" alt="image" src="https://github.com/user-attachments/assets/91f372b2-2bce-4812-a191-0c40fb84ae63" />
+<img width="1852" height="946" alt="image" src="https://github.com/user-attachments/assets/e6d664bd-fac7-4f2b-a143-e3c08e0b1dd7" />
+<img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/69019099-1d7b-4c0b-8394-3cb53b568199" />
+<img width="1849" height="946" alt="image" src="https://github.com/user-attachments/assets/358d4f29-d7c8-4199-9c72-82040cf76097" />
+<img width="1850" height="947" alt="image" src="https://github.com/user-attachments/assets/fc9b71d7-72b5-492a-8b6f-6aad88114a72" />
+<img width="1852" height="944" alt="image" src="https://github.com/user-attachments/assets/507538d2-74b9-48e6-bddb-7ff42ef851da" />
+<img width="1850" height="941" alt="image" src="https://github.com/user-attachments/assets/97ffd818-9aa2-4094-bda6-cbdcd3296634" />
+<img width="1765" height="634" alt="image" src="https://github.com/user-attachments/assets/e6cd6ecf-681d-42d6-9357-9a31aaf970c9" />
