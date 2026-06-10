@@ -2,7 +2,7 @@
     <div class="min-h-screen flex justify-center">
         <div class="min-h-full w-full flex flex-col border">
             <nav class="flex justify-between py-4 px-14 bg-black items-center">
-                <section class="flex gap-4 text-white">
+                <section class="flex gap-4 text-white items-center">
                     <div class="flex gap-2 items-center">
                         <Icon name="heroicons-solid:inbox-stack"
                         size="30" 
@@ -30,7 +30,10 @@
                     <label class="font-medium text-7xl" for="search">
                         How can we help?
                     </label>
-                    <input class="w-full h-10 shadow-sm shadow-gray-200 px-4 focus:outline-none bg-white" type="text" id="search" name="search" placeholder="Search"/>
+                    <div class="relative">    
+                        <input class="w-full h-10 shadow-sm shadow-gray-200 px-4 focus:outline-none bg-white" type="text" id="search" name="search" placeholder="Search">
+                        <Icon class="absolute right-5 top-3" name="heroicons-solid:arrow-right" />
+                    </div>
                 </section>
             </header>
 
@@ -42,7 +45,7 @@
                     <Item class="flex-1" v-for="item in colTwo" :icon="item.icon" :title="item.title" :description="item.description" />
                </section>
             </main>
-            <footer class="flex gap-10 h-80 py-4 px-14 bg-black text-white justify-evenly">
+            <footer class="flex gap-10 h-80 py-10 px-14 bg-black text-white justify-evenly">
                 <section class="flex flex-col gap-2">
                     <h3 class="font-bold text-xl">
                         Abstract

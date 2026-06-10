@@ -13,8 +13,7 @@
             </p>
             <NuxtLink to="/" class="text-[#4c5FD5] flex gap-2 items-center">
                 <span> Learn More </span>
-                <Icon name="heroicons-solid:arrow-right"
-                />
+                <Icon name="heroicons-solid:arrow-right" />
             </NuxtLink>
        </div> 
     </div>
