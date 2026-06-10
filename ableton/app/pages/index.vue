@@ -233,16 +233,16 @@
                                 <ChevronRight :size="16"/>
                             </span>
                         </div>
-                        <div class="flex-1 flex gap-2 flex-col">
+                        <div class="flex-1 flex gap-2 flex-col flex-wrap">
                             <span>
                                 Sign up to our newsletter
                             </span>
                             <span>
                                 Enter your email address to stay up to date with latest offers, tutorials, downloads and more
                             </span>
-                            <div class="flex">
-                                <input class="border" type="email" placeholder="Email address"/>
-                                <button class="bg-[#0000FF] w-20 h-8 border text-center text-white" type="submit">
+                            <div class="flex items-center">
+                                <input class="p-4 w-75 h-10 bg-gray-100" type="email" placeholder="Email address"/>
+                                <button class="bg-[#0000FF] w-25 h-10 border text-center text-white" type="submit">
                                     Sign Up
                                 </button>
                             </div>
@@ -283,13 +283,13 @@
                             <span>
                                 Language and Location
                             </span>
-                            <div class="flex">
-                                <select class="border" name="English">
+                            <div class="flex gap-2">
+                                <select class="bg-gray-100 w-25" name="English">
                                     <option>
                                         English
                                     </option>
                                 </select>
-                                <select class="border" name="United States">
+                                <select class="bg-gray-100 w-40" name="United States">
                                     <option>
                                         United States
                                     </option>
