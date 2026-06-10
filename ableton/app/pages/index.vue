@@ -191,7 +191,7 @@
                     </div>
                 </section>
 
-                <footer class="flex flex-col gap-10 px-10">
+                <footer class="flex flex-col gap-10 px-10 py-10 border-t border-t-slate-200">
                     <h1 class="font-bold text-4xl">
                         Ableton
                     </h1>
@@ -298,7 +298,7 @@
                         </div>
                     </div>
                     <div class="flex mt-10 justify-between">
-                        <div class="flex gap-6">
+                        <div class="flex gap-6 font-bold">
                             <span>
                                 Archive
                             </span>
