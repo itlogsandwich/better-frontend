@@ -163,7 +163,7 @@
 
                     <div class="flex justify-center h-160 items-center my-10">
                         <div class="flex w-3/4 h-full">
-                            <div class="flex-1 border h-full">
+                            <div class="flex-1 h-full">
                                 <img alt="" class="w-full h-full" src="https://ableton-production.imgix.net/about/photo-8.jpg?auto=compress%2Cformat&amp;w=180" srcset="
                                     https://ableton-production.imgix.net/about/photo-8.jpg?auto=compress%2Cformat&amp;w=180 180w,
                                     https://ableton-production.imgix.net/about/photo-8.jpg?auto=compress%2Cformat&amp;w=268 268w,
